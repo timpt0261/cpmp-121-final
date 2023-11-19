@@ -1,22 +1,41 @@
 # cpmp-121-final
- 
-## Introducing the team
-Either organizing by person or by role, tell us who will do what on your team. Your team should span at least the following roles (with no person having more than one role):
 
-Tools Lead: This person will research alternative tools, identify good ones, and help every other team member set them up on their own machine in the best configuration for your project. This person might also establish your team’s coding style guidelines and help peers setup auto-formatting systems. This person should provide support for systems like source control and automated deployment (if appropriate to your team’s approach).
-Engine Lead: This person will research alternative engines, get buy-in from teammates on the choice, and teach peers how to use it if it is new to them. This might involve making small code examples outside of the main game project to teach others. The Engine Lead should also establish standards for which kinds of code should be organized into which folders of the project. They should try to propose software designs that insulate the rest of the team from many details of the underlying engine.
-Design Lead: This person will be responsible for setting the creative direction of the project, and establishing the look and feel of the game. They might make small art or code samples for others to help them contribute and maintain game content. Where the project might involve a domain-specific language, the Design Lead (who is still an engineer in this class) will lead the discussion as to what primitive elements the language needs to provide.
-If your team has more than three people, you are welcome to sub-divide the roles above into more specific roles or tag people as Assistant or Backup for one of the existing roles. You might need to invent new roles if your team is going to try a special game design technique (e.g. assign a Procgen Lead if your team uses procedural generation).
+## Introducing the Team
 
-## Tools and materials
-With about one paragraph each...
+### Tools Lead - [Reuben Chavez]
+Responsible for researching alternative tools, setting up configurations, and establishing coding style guidelines. Provides support for systems like source control and automated deployment. Also assists in setting up auto-formatting systems.
 
-Tell us about what engines, libraries, frameworks, and or platforms you intend to use, and give us a tiny bit of detail about why your team chose those.
-Tell us programming languages (e.g. TypeScript) and data languages (e.g. JSON) you team expects to use and why you chose them. Presumably you’ll just be using the languages expected by your previously chosen engine/platform.
-Tell us about which tools you expect to use in the process of authoring your project. You might name the IDE for writing code, the image editor for creating visual assets, or the 3D editor you will use for building your scene. Again, briefly tell us why you made these choices. Maybe one of your teammates feels especially skilled in that tool or it represents something you all want to learn about.
+### Engine Lead - [Gabriel Bacon]
+Researches alternative engines, gains buy-in from teammates on the choice, and teaches peers how to use it. Establishes standards for organizing code into project folders and proposes software designs that insulate the team from underlying engine details.
+
+### Design Lead - [Ben Dailey]
+Sets the creative direction of the project, establishes the look and feel of the game, and leads discussions on domain-specific language elements. Responsible for creating small art or code samples to help others contribute to and maintain game content.
+
+## Production -[Daniel Bustan]
+Defines the project scope and deliverable, while coordinating team memeber to work alognside. Responsblities include but not limited to muscic production and creating assets.
+
+## Tools and Materials
+
+### Engines, Libraries, Frameworks, and Platforms
+Our team has chosen to use the Godot Engine with Mono for our game, as it's a light weight application that has added C# support. This decision was made because both our Design and Engine Lead as they are profircietly experinced in using the Godot Engine. Not to mention that engine is best to for small projects like these. AS well the engien is able support both web, pc, and console games alike.
+
+### Programming and Data Languages
+We will be using C# for coding, as our team is quite familiar with programming in Unity. As well help with gap of experince with team member unfamiliar to using godot.
+
+### Authoring Tools
+Our development process will involve using the GoDot Engine Editor, PhotoShop, and 2d assets we can finde online. We selected these tools because our expertices is mainly on the game engine it self, than the assest. As well that we want to implemnet our features mainly to 
+
 ## Outlook
-Give us a short section on your outlook on the project. You might cover one or more of these topics:
 
-What is your team hoping to accomplish that other teams might not attempt?
-What do you anticipate being the hardest or riskiest part of the project?
-What are you hoping to learn by approaching the project with the tools and materials you selected above?
+### Project Goals
+Our team aims to accomplish a Farm Simulator, differentiating ourselves by using elements from Fire Emblem. Where our Design Lead wants " the movement radius is generated from their current position and the player can select where to go as a highlight". AS well to creat fun game play experince
+
+### Project Challenges
+
+
+### Learning Objectives
+By using the selected tools and materials, we hope to learn how to better use the Godot Engine, while . This includes [Specific Skills or Knowledge] that will benefit our team members individually and collectively.
+
+# Devlog Entry - [11/19/2023]
+Reuben Chavez: I have create the repo for our final project and have intergrated godot.
+
